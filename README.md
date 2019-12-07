@@ -10,7 +10,7 @@ Nesse projeto foi utilizado Styled Components e animações em React Native.
 
 ## Refeências
 
-(Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes)[https://www.youtube.com/watch?v=DDm0M_rZLJo]
+[Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes](https://www.youtube.com/watch?v=DDm0M_rZLJo)
 
 ## Agradecimentos
 
